@@ -6,7 +6,7 @@ public class VarShadowing {
 
     public static void main(String[] args) {
         System.out.println(x);
-        int x = 39;
+        int x = 49;
         System.out.println(x);
         shawdowvar();
 
